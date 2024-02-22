@@ -1,0 +1,36 @@
+#form{
+border:solid 1px ;
+padding: 23px;
+border-radius: 30px 40px 30px 40px;
+text-align: end;
+margin: auto;
+width: 50%;
+position: absolute; top: 2px; right: 2px;
+
+
+}
+input{
+    border: solid 2px;
+    border-radius: 2px;
+    padding: left 20px;
+    margin: auto;
+    
+
+
+}
+button{
+    padding: 32px; ;
+    background-color: blueviolet;
+    border-radius: 2px;
+  
+
+    
+
+
+}
+body{
+    background-color:violet;
+
+
+}
+
